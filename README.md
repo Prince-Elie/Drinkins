@@ -6,9 +6,13 @@
 
 ---
 
+## 📸 Aperçu
+
+![Drinkins Screenshot](looks%20like.png)
+
 ## À propos
 
-Drinkins est un projet web interactif mettant en avant des animations fluides et une interface moderne.
+Drinkins est un projet web interactif mettant en avant des animations fluides et une interface moderne pour showcaser les boissons avec style!
 
 ## 🛠️ Technologies
 
